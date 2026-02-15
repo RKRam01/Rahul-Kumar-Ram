@@ -1,7 +1,13 @@
-<h1 align="center">Hi, I'm Rahul</h1>
+<h1 align="center">Rahul</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Progress;MERN+Stack+Learner;DSA+and+Cybersecurity+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+and+Cybersecurity+Enthusiast;Building+Scalable+Web+Applications"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RKRam01">
+    <img src="https://komarev.com/ghpvc/?username=RKRam01&label=Profile%20Views&color=0e75b6&style=flat"/>
+  </a>
 </p>
 
 ---
@@ -17,18 +23,18 @@
 
 ## Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/rahul-kumar-6a35aa277/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/RK_Ram/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://github.com/RKRam01" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -37,33 +43,37 @@
 
 ## Tech Stack
 
-### MERN
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+### MERN Stack
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+</p>
 
 ### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+</p>
 
 ### Core Skills
-
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red)
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1f6feb"/>
+<img src="https://img.shields.io/badge/Cybersecurity-bd2c00"/>
+</p>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RKRam01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKRam01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RKRam01&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RKRam01&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RKRam01&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
@@ -85,9 +95,5 @@
 ---
 
 <p align="center">
-  Always learning, always building
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RKRam01&label=Profile%20Views&color=blue&style=flat" />
+  <b>Always learning, always building</b>
 </p>
